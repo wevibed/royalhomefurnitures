@@ -1,0 +1,13 @@
+ROYAL HOME FURNITURE — PRE-DEPLOY CHECKLIST
+
+[ ] Confirm business name styling and logo.
+[ ] Confirm exact physical address and contact number.
+[ ] Obtain Royal Home-owned product photographs and approval to publish them.
+[ ] Confirm product names, categories, dimensions, materials, finishes and prices.
+[ ] Replace illustrative sample GLB models with Royal Home-specific models where required.
+[ ] Confirm custom-order process, delivery coverage, payment terms and warranty.
+[ ] Test showroom interaction and gallery filters on Android, iOS and desktop.
+[ ] Run npm run build successfully.
+[ ] Review the deployed website and WhatsApp enquiry links before launch.
+
+IMPORTANT: Do not present the current sample models as Royal Home's actual products.
